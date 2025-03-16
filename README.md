@@ -11,6 +11,12 @@ CSS - Styling with gradients and animations.
 
 JavaScript - Logic for performing calculations.
 
+## Project Overview
+Click the image below to view it in full size:  
+
+
+
+
 
 
 💡 Made with ❤️ by Aditya
